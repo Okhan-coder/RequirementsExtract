@@ -3,7 +3,7 @@
 Extracts Requirements for PLA algorithm in Python
 
 # Libraries
-Numpy   latest
+Numpy   1.24.x
 
 mat73   0.62
 
